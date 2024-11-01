@@ -127,7 +127,6 @@ const Register = () => {
                 </Link>
               </p>
             </div>
-            
             <Google></Google>
           </div>
         </div>
